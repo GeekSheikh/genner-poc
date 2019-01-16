@@ -1,0 +1,1 @@
+{"FieldArray":[{"name":"UserId","dataAttribute":"alphanumaric.randomGuid"}, {"name":"FirstName","dataAttribute":"contact.firstName"}, {"name":"LastName","dataAttribute":"contact.lastName"}, {"name":"DOB","dataAttribute":"contact.dob"}, {"name":"Address", "dataAttribute":"contact.address"},{"name":"Temperature","dataAttribute":"alphanumaric.randomDouble"}]}
